@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Aprameya%20Bharadwaj&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20MLOps%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20CS%20%26%20Design&descAlignY=58&descSize=17&descColor=c7d2fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:8b5cf6,100:06b6d4&amp;height=220&amp;section=header&amp;text=Aprameya%20Bharadwaj&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%E2%80%A2%20MLOps%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20CS%20%26%20Design&amp;descAlignY=58&amp;descSize=17&amp;descColor=c7d2fe" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=60&lines=SIH+2025+National+Winner+%7C+6+IP+India+Patents+%7C+IEEE+%26+Taylor+%26+Francis+Published;Building+production+ML+systems+that+ship+at+scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=15&amp;duration=3500&amp;pause=1200&amp;color=818CF8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=760&amp;height=60&amp;lines=SIH+2025+National+Winner+%7C+6+IP+India+Patents+%7C+IEEE+%26+Taylor+%26+Francis+Published;Building+production+ML+systems+that+ship+at+scale" alt="Typing SVG" />
 
 <br/>
 
@@ -152,9 +152,11 @@ Photo-log meals, model gut microbiome response, predict mood shifts. A full ML p
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,nodejs,react,nextjs,typescript&perline=10" />
-<img src="https://skillicons.dev/icons?i=kafka,postgres,mongodb,redis,azure,aws,docker,git,github,cloudflare&perline=10" />
-<img src="https://skillicons.dev/icons?i=figma,blender,xd,java,cpp,javascript,r,mysql&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,nodejs,react,nextjs,typescript&amp;perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=kafka,postgres,mongodb,redis,azure,aws,docker,git,github,cloudflare&amp;perline=10" />
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,blender,xd,java,cpp,javascript,r,mysql&amp;perline=10" />
 
 </div>
 
@@ -164,17 +166,13 @@ Photo-log meals, model gut microbiome response, predict mood shifts. A full ML p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aprameya05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=1800" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aprameya05&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" height="160"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aprameya05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=1800)
 
-<br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aprameya05&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800)
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Aprameya05&theme=tokyonight&hide_border=true" height="150"/>
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Aprameya05&theme=tokyonight&hide_border=true)
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aprameya05&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aprameya05&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
 </div>
 
@@ -216,6 +214,6 @@ Photo-log meals, model gut microbiome response, predict mood shifts. A full ML p
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,50:8b5cf6,100:6366f1&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
