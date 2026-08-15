@@ -16,13 +16,15 @@
 
 ## About Me
 
-I'm a CS and Design undergrad at DSCE (VTU, CGPA 9.0) who got tired of ML projects that live only in notebooks.
+I like building systems where research meets real engineering.
 
-Right now I'm predicting cloudbursts for Bengaluru airport using actual IMD station data and ERA5 reanalysis, modeling drug synergy across 60 cancer cell lines with graph neural networks, and consulting for a World Bank field experiment across 1,951 farmers in 6 Karnataka districts. On the side I built NeuralOps, an open-source observability platform for AI agents that tracks cost, drift, and decision traces across multi-hop LLM pipelines.
+From training graph neural networks on cancer drug data to deploying thunderstorm prediction models with the Indian Met Department, I work across the full stack of a problem: understanding the science, designing the architecture, building the model, and shipping something that actually runs.
 
-I care about the stuff that comes *after* the model: deployment, monitoring, failure modes, and making sure the system actually works when someone's life depends on it. I also have a design background, which means I'll fight you on font choices and information hierarchy in the same week I'm tuning XGBoost hyperparameters.
+My work has touched clinical NLP on Azure, atmospheric forecasting with ERA5 and upper-air soundings, drug synergy prediction across 60 cancer cell lines, IoT sensor networks for disaster early warning, and FHIR-compliant healthcare APIs. Not as side projects. As systems with real users, real data, and real stakes.
 
-**Currently open to:** research collabs, internships, and anything at the intersection of ML and real-world systems.
+Along the way I've published at IEEE, filed 6 patents, consulted under the World Bank REWARD Program, and won Smart India Hackathon 2025 at the national level.
+
+I study CS and Design at DSCE and graduate in 2027. Always looking for the next hard problem.
 
 ---
 
