@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:8b5cf6,100:06b6d4&amp;height=220&amp;section=header&amp;text=Aprameya%20Bharadwaj&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%E2%80%A2%20MLOps%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20CS%20%26%20Design&amp;descAlignY=58&amp;descSize=17&amp;descColor=c7d2fe" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=15&amp;duration=3500&amp;pause=1200&amp;color=818CF8&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=760&amp;height=60&amp;lines=SIH+2025+National+Winner+%7C+6+IP+India+Patents+%7C+IEEE+%26+Taylor+%26+Francis+Published;Building+production+ML+systems+that+ship+at+scale" alt="Typing SVG" />
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aprameya05)
@@ -165,12 +163,6 @@ Photo-log meals, model gut microbiome response, predict mood shifts. A full ML p
 ## GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aprameya05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aprameya05&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Aprameya05&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aprameya05&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
