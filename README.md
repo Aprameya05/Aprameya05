@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Aprameya%20Bharadwaj&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20MLOps%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20CS%20%26%20Design&descAlignY=58&descSize=17&descColor=c7d2fe" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=60&lines=SIH+2025+National+Winner+%7C+6+IP+India+Patents+%7C+IEEE+%26+Taylor+%26+Francis+Published;Building+production+ML+systems+that+ship+at+scale)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=220&section=header&text=Aprameya%20Bharadwaj&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20MLOps%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20CS%20%26%20Design&descAlignY=58&descSize=17&descColor=c7d2fe" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=1200&color=818CF8&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=60&lines=SIH+2025+National+Winner+%7C+6+IP+India+Patents+%7C+IEEE+%26+Taylor+%26+Francis+Published;Building+production+ML+systems+that+ship+at+scale" alt="Typing SVG" />
 
 <br/>
 
@@ -38,7 +38,7 @@ I study CS and Design at DSCE and graduate in 2027. Always looking for the next 
 | **MumbaiHacks 2025 Finalist** | National finalist, shipped an AI agent prototype in 24 hours |
 | **Singapore-India Hackathon 2026** | Invited participant at SMU Singapore |
 | **National Deep Tech Seminar** | 1st Prize, judged by the Chief Minister of Karnataka |
-| **6 IP India Patents** | Domains: EV, urban systems, healthcare AI, metro, neurodegeneration, oncology |
+| **6 IP India Patents** | EV, urban systems, healthcare AI, metro, neurodegeneration, oncology |
 | **IEEE I-SMAC 2025** | Attention-Enhanced Bi-LSTM + XGBoost, 98.14% accuracy, 0.982 PR-AUC |
 | **Taylor & Francis AI2024** | Survey on adversarial attacks and defenses in deep learning |
 | **International Academic Rep** | Represented DSCE at Georgia State University and Bradley University, USA |
@@ -96,16 +96,16 @@ GATv2 with cross-drug attention and FiLM conditioning trained on 107,103 NCI ALM
 </td>
 <td width="50%" valign="top">
 
-### Cloudburst Early Warning System
-**SIH 2025 National Winner**
+### [GutSense](https://github.com/Aprameya05/GutSense-Mood-Prediction)
+**Neuro-nutrition mood prediction**
 
-Edge ML system for real-time cloudburst warnings with zero cloud dependency. ESP32/STM32 nodes running XGBoost on pressure-drop gradients and humidity rate-of-change, networked over LoRa 433 MHz mesh.
+Photo-log meals, model gut microbiome response, predict mood shifts. A full ML pipeline connecting nutrition intake to neurological state via microbiome proxy modeling.
 
-- Sub-3-minute end-to-end latency, 95%+ precision
-- Sub-2-second mesh failover
-- 7-language Next.js dashboard for offline district officials
+- End-to-end pipeline from food image input to mood prediction
+- Microbiome intermediate modeling layer
+- Nutrition-to-neurotransmitter pathway features
 
-`XGBoost` `ESP32` `STM32` `LoRa` `Next.js`
+`Python` `PyTorch` `Computer Vision` `Scikit-learn`
 
 </td>
 </tr>
@@ -115,75 +115,48 @@ Edge ML system for real-time cloudburst warnings with zero cloud dependency. ESP
 
 ## Experience
 
-```
-Tietoevry                      AI Engineering Intern       Feb 2025 - May 2025
-  Azure Document Intelligence + Text Analytics for Health pipeline
-  Drug interaction engine across 500+ drug pairs with 3 severity tiers (RxNorm, DailyMed)
-  GPT summarization grounded on Azure NER, cut factual error rate by 30%
-
-GKVK - UAS Bengaluru           Data Science Consultant     Feb 2026 - Jul 2026
-  World Bank REWARD Program
-  Randomized field experiment, 6 districts, 1,951 farmers, p < 0.05
-  ETL pipeline merging 5 climate and soil datasets (IMD, ERA5) into 40+ features
-```
+<table width="100%">
+<tr>
+<td width="38%"><b>Tietoevry</b></td>
+<td width="32%">AI Engineering Intern</td>
+<td width="30%">Feb 2025 – May 2025</td>
+</tr>
+<tr>
+<td colspan="3">
+<ul>
+<li>Azure Document Intelligence + Text Analytics for Health pipeline</li>
+<li>Drug interaction engine across 500+ drug pairs, 3 severity tiers (RxNorm, DailyMed)</li>
+<li>GPT summarization grounded on Azure NER, cut factual error rate by 30%</li>
+</ul>
+</td>
+</tr>
+<tr><td colspan="3"><br/></td></tr>
+<tr>
+<td><b>GKVK – UAS Bengaluru</b></td>
+<td>Data Science Consultant</td>
+<td>Feb 2026 – Jul 2026</td>
+</tr>
+<tr>
+<td colspan="3"><i>World Bank REWARD Program</i>
+<ul>
+<li>Randomized field experiment, 6 districts, 1,951 farmers, p &lt; 0.05</li>
+<li>ETL pipeline merging 5 climate and soil datasets (IMD, ERA5) into 40+ features</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,nodejs,react,nextjs,typescript&perline=10" />
+<img src="https://skillicons.dev/icons?i=kafka,postgres,mongodb,redis,azure,aws,docker,git,github,cloudflare&perline=10" />
+<img src="https://skillicons.dev/icons?i=figma,blender,xd,java,cpp,javascript,r,mysql&perline=10" />
 
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch Geometric](https://img.shields.io/badge/PyG-3C2179?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Backend and Infra**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Cloud and DevOps**
-
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+</div>
 
 ---
 
@@ -191,9 +164,9 @@ GKVK - UAS Bengaluru           Data Science Consultant     Feb 2026 - Jul 2026
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aprameya05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aprameya05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&cache_seconds=1800" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aprameya05&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aprameya05&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" height="160"/>
 
 <br/><br/>
 
@@ -201,7 +174,7 @@ GKVK - UAS Bengaluru           Data Science Consultant     Feb 2026 - Jul 2026
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aprameya05&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aprameya05&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
