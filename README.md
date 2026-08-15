@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:8b5cf6,100:06b6d4&amp;height=220&amp;section=header&amp;text=Aprameya%20Bharadwaj&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=38&amp;desc=AI%20Engineer%20%E2%80%A2%20MLOps%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20CS%20%26%20Design&amp;descAlignY=58&amp;descSize=17&amp;descColor=c7d2fe" width="100%"/>
+## Aprameya Bharadwaj
+
+**AI Engineer · MLOps · Healthcare AI · CS & Design**
 
 <br/>
 
@@ -206,6 +208,7 @@ Photo-log meals, model gut microbiome response, predict mood shifts. A full ML p
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,50:8b5cf6,100:6366f1&amp;height=120&amp;section=footer" width="100%"/>
+---
+*Bengaluru, India · [linkedin.com/in/aprameya05](https://linkedin.com/in/aprameya05)*
 
 </div>
