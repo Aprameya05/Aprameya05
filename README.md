@@ -8,9 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aprameya05)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aprameya.bharadwaj.05@gmail.com)
-[![NeuralOps](https://img.shields.io/badge/NeuralOps-Live-6366f1?style=for-the-badge&logo=cloudflare&logoColor=white)](https://neuralops.pages.dev)
-
-<img src="https://komarev.com/ghpvc/?username=Aprameya05&label=Profile%20Views&color=6366f1&style=for-the-badge" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aprameya05)
 
 </div>
 
@@ -68,12 +66,12 @@ I care about the stuff that comes *after* the model: deployment, monitoring, fai
 <td width="50%" valign="top">
 
 ### [NeuralOps](https://github.com/Aprameya05/neuralops)
-**[neuralops.pages.dev](https://neuralops.pages.dev)**
+**neuralops.pages.dev**
 
 Observability for AI agents. Traces multi-hop LLM pipelines, tracks per-call cost across 15 models, and detects distribution drift using Welford stats at 2.5 sigma. Covers LangGraph, CrewAI, and AutoGen.
 
 - Python SDK on PyPI + JS SDK
-- `causal_chain_id` stitches spans into a decision tree in ClickHouse
+- causal_chain_id stitches spans into a decision tree in ClickHouse
 - LLM-as-judge scoring with a CI leaderboard
 
 `FastAPI` `Kafka` `ClickHouse` `PostgreSQL` `Redis` `Cloudflare`
@@ -86,7 +84,7 @@ Observability for AI agents. Traces multi-hop LLM pipelines, tracks per-call cos
 ### [ProteinSynergyDock](https://github.com/Aprameya05/ProteinSynergyDock-App)
 **Drug synergy prediction across cancer cell lines**
 
-GATv2 with cross-drug attention and FiLM conditioning trained on 107,103 NCI ALMANAC samples. Pearson r = 0.577, AUROC 0.795. Wired up to a FHIR R4 REST API with CDS Hooks for EHR integration, so predictions can surface at the point of care.
+GATv2 with cross-drug attention and FiLM conditioning trained on 107,103 NCI ALMANAC samples. Pearson r = 0.577, AUROC 0.795. Wired up to a FHIR R4 REST API with CDS Hooks for EHR integration.
 
 - AutoDock Vina 1.2.7 docking pipeline via RCSB
 - 266-test CI/CD on Python 3.10/3.11, zero prod failures
@@ -104,7 +102,6 @@ Edge ML system for real-time cloudburst warnings with zero cloud dependency. ESP
 - Sub-3-minute end-to-end latency, 95%+ precision
 - Sub-2-second mesh failover
 - 7-language Next.js dashboard for offline district officials
-- Only fully off-grid-capable solution across all 271 SIH problem statements
 
 `XGBoost` `ESP32` `STM32` `LoRa` `Next.js`
 
@@ -193,14 +190,14 @@ GKVK - UAS Bengaluru           Data Science Consultant     Feb 2026 - Jul 2026
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aprameya05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aprameya05&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aprameya05&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Aprameya05&theme=tokyonight&hide_border=true" height="150"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aprameya05&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
@@ -243,8 +240,6 @@ GKVK - UAS Bengaluru           Data Science Consultant     Feb 2026 - Jul 2026
 ---
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Aprameya05&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer" width="100%"/>
 
